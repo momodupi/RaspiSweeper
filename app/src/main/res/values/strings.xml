@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">RaspiSweeper</string>
+
+    <string name="sensorava">deveice support SensorManager</string>
+
+    <string name="sensornava">deveice not support SensorManager</string>
+
+    <string name="swpshutdown">Sweeper Shut down!</string>
+
+    <string name="accbutton">acc</string>
+
+    <string name="swpbtn">Start</string>
+
+    <string name="rsvbtn">R</string>
 </resources>
