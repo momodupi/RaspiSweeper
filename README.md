@@ -1,2 +1,2 @@
 # RaspiSweeper！
-The code of Sweeper on Android.
+The code of Sweeper Controller on Android.
